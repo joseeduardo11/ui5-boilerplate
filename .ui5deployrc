@@ -1,0 +1,16 @@
+{
+  "cwd": "./dist",
+  "files": "**/*.*",
+  "client": "100",
+  "useStrictSSL": false,
+  "language": "EN",
+  "package": "zfiori",
+  "bspContainer": "zbuspartner",
+  "bspContainerText": "BusinessPartner",
+  "transportNo": "G2XK900059",
+  "createTransport": false,
+  "transportText": "Test Transport",
+  "transportUseLocked": false,
+  "transportUseUserMatch": false,
+  "calculateApplicationIndex": true
+}
